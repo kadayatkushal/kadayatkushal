@@ -27,6 +27,20 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kadayatkushal&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadayatkushal&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+## 🚀 Vercel Deployment Status  
+
+<p align="center">
+  <img src="https://therealsujitk-vercel-badge.vercel.app/?app=your-vercel-app-name" alt="Vercel Status">
+</p>
 
 ## Connect with Me  
 📩 **Email**: [kadayatkushal2@gmail.com](mailto:kadayatkushal2@gmail.com)  
