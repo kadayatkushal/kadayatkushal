@@ -32,11 +32,8 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kadayatkushal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kadayatkushal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadayatkushal&theme=tokyonight" alt="Profile Details"/>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadayatkushal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadayatkushal&theme=tokyonight" alt="Profile Details"/>
 </div>
 
 
