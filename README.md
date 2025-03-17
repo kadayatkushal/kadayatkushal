@@ -33,12 +33,8 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kadyatkushal/kadyatkushal/main/coding.gif" width="400px"/>
-</div>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Native+%7C+Node.js+%7C+MongoDB;Building+Awesome+Projects+Everyday!)
-
+## 🐍 Contribution Graph
+![Snake animation](https://github.com/kadayatkushal/kadayatkushal/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Connect with Me  
