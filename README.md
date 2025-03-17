@@ -4,7 +4,7 @@
 
 ## About Me  
 🔹 Passionate about building modern web and mobile applications.  
-🔹 Currently working at **Eos Websolutions** and managing **EZPlay Nepal**.  
+🔹 Currently working at **[Eos websolutions](https://www.instagram.com/kadayatkushal220?igsh=cHJsemM2eGtvM2kw)** and managing **[EZPlay](https://www.instagram.com/ezplay.official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)**.  
 🔹 Focused on **React, Node.js, MongoDB**, and **3D web design**.  
 🔹 Exploring **Figma** to enhance UI/UX skills.  
 
