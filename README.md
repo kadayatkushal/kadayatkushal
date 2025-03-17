@@ -33,6 +33,8 @@
 
 </div>
 
+## 🐍 Contribution Graph
+![Snake animation](https://github.com/kadayatkushal/kadayatkushal/actions/workflows/snake.yml)
 
 ## Connect with Me  
 📩 **Email**: [kadayatkushal2@gmail.com](mailto:kadayatkushal2@gmail.com)  
