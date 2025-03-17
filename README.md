@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-## 📊 GitHub Stats  
-
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kadayatkushal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
     <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kadayatkushal&theme=tokyonight" alt="Profile Details"/>
